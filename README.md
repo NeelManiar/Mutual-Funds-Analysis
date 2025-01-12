@@ -1,2 +1,2 @@
 # Mutual-Funds-Analysis
-A software that takes in input files from the users regarding the monthly portfolios of various Mutual Funds, based on which it is decided which portfolios were removed and which were added
+Software that takes input files from users regarding the monthly holdings of various mutual funds, based on which portfolios were removed and added so that their clients can understand the operational activities being performed.
